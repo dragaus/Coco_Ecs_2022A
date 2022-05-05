@@ -9,7 +9,7 @@ public class EcsManager : MonoBehaviour
 {
     EntityManager manager;
     public GameObject zombunnyPrefab;
-    const int numOfZombunnies = 2000;
+    const int numOfZombunnies = 20000;
 
     // Start is called before the first frame update
     void Start()
